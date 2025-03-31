@@ -1,0 +1,45 @@
+h1:hover{
+    background-color:rgb(111, 64, 213);
+    color:aqua
+}
+.c1:hover{
+    background-color:beige;
+    background-image: url("Avg3.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.c2:hover{
+    background-color:rgb(224, 12, 54);
+    background-image: url("Avg2.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.c3:hover{
+    background-color:rgb(20, 194, 214);
+    background-image: url("Avg-4.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.c4:hover{
+    background-color:rgb(145, 11, 223);
+    background-image: url("Avg1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+button{
+    height:30px;
+    width: 70px;
+    background-color: rgb(237, 14, 17);
+}
+button:hover{
+    background-color: greenyellow;
+}
+input{
+    height:20px;
+    width: 389px;
+}
+input:focus{
+    background-color: rgb(239, 12, 27);
+    color:white;
+    font-size: larger;
+}
